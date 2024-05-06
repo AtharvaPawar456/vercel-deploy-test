@@ -22,6 +22,10 @@
       {
         "src": "/(.*)",
         "dest": "djdeployproject/wsgi.py"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/"
       }
     ]
   }
